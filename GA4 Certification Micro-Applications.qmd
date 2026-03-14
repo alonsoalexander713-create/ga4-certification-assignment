@@ -37,7 +37,7 @@ One thing I will change in my CEP measurement plan is focusing more on engagemen
 
 ## KPI and Supporting Report
 
-![](images/ga4_pages_report.png)
+![](Images/ga4_pages_report.png)
 
 The KPI I would focus on is page views because it shows how many times users visit some pages on a website. The Pages and Screens report helps analyze which pages get the most traffic. This info can help see the most popular content and also areas where improvements could better users interaction on the website.
 
